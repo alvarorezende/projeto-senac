@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prj_concessionaria_com_banco_de_dados", "prj_concessionaria_com_banco_de_dados\prj_concessionaria_com_banco_de_dados.csproj", "{D9A6BE32-68A1-4FBC-8C8B-5B36D48998FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A6BE32-68A1-4FBC-8C8B-5B36D48998FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A6BE32-68A1-4FBC-8C8B-5B36D48998FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A6BE32-68A1-4FBC-8C8B-5B36D48998FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A6BE32-68A1-4FBC-8C8B-5B36D48998FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA9D269-2EB6-471F-800E-BB7CD313C434}
+	EndGlobalSection
+EndGlobal
